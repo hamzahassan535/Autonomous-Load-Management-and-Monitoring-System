@@ -1,8 +1,7 @@
 # Autonomous Load Management and Monitoring System
 
-![Prototype](https://github.com/hamzahassan535/Autonomous-Load-Management-and-Monitoring-System/assets/135664238/73e0cd33-0b71-4ab1-8af1-c4a9bd9f8040) ![Direct Supply (440v) without load](https://github.com/hamzahassan535/Autonomous-Load-Management-and-Monitoring-System/assets/135664238/46367128-9ae1-402d-a953-bf9ebd89db2b)
-
-
+![Direct Supply (440v) without load](https://github.com/hamzahassan535/Autonomous-Load-Management-and-Monitoring-System/assets/135664238/46367128-9ae1-402d-a953-bf9ebd89db2b)
+![Prototype](https://github.com/hamzahassan535/Autonomous-Load-Management-and-Monitoring-System/assets/135664238/73e0cd33-0b71-4ab1-8af1-c4a9bd9f8040) 
 
 # Abstract
 The Autonomous Load Management and Monitoring System addresses the increasing demand for efficient power management in industrial, business, commercial, residential, and public sectors. Power quality issues have become significant concerns for utility companies, equipment manufacturers, and electricity consumers. This project aims to monitor and analyze electric energy consumption to minimize electricity usage. By improving power factors through shunt capacitors, the system helps conserve energy and reduce electricity bills. Additionally, it incorporates IoT technology to wirelessly display load flow analysis in the electrical supervisor room, accessible from any smart electronic device connected via Wi-Fi.
